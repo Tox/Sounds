@@ -1,5 +1,5 @@
 # About Chippy
-Chippy is a set of basic chip-tune like sounds for use in Tox clients.
+Chippy is a set of basic chip-tune like sounds for use in Tox clients. (Think Nintendo Entertainment System or Sega Genesis sounds)
 
 It is ment to be a tollerable yet still slightly annoying to the user to get their attention.
 
