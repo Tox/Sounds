@@ -26,27 +26,28 @@ File Naming
 Your sound files should be named according to the following list of standard
 file names.
 
-    =Call
-        |-Drop.ext
-        |-IncomingVideoCall.ext
-        |-IncomingAudioCall.ext
-        |-OutgoingVideoCall.ext
-        |-OutgoingAudioCall.ext
-    =Group
-        |-MemberLeft.ext
-        |-NameChange.ext
-        |-NewMember.ext
+    =Ringtone
+        |-IncomingVideo.ext
+        |-IncomingAudio.ext
+        |-OutgoingVideo.ext
+        |-OutgoingAudio.ext
     =Notification
-        |-Error.ext
+        |-CallDrop.ext
+        |-GeneralError.ext
         |-ContactOffline.ext
         |-ContactOnline.ext
-        |-NewInvite.ext
-        |-NewMessage.ext
+        |-Invite.ext
+        |-Message.ext
+        |-ImportantMessage.ext
         =FileTransfer
             |-Failure.ext
             |-Incoming.ext
             |-Resume.ext
             |-Success.ext
+        =Group
+            |-Leave.ext
+            |-NameChange.ext
+            |-Join.ext
 
     Key:
     = - Folder
